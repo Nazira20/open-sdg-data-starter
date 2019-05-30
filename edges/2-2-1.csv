@@ -1,1 +1,4 @@
 From,To
+AGE,Observation status
+Observation status,Unit measure
+Unit measure,Unit multiplier
