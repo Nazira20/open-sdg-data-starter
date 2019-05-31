@@ -1,1 +1,5 @@
 From,To
+Observation status,Unit measure
+Unit multiplier,Area
+Unit multiplier,Sex
+Unit measure,Unit multiplier
