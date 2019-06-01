@@ -1,5 +1,2 @@
 From,To
-AGE,Observation status
-Observation status,Sex
-Sex,Unit measure
-Unit measure,Unit multiplier
+AGE,Sex
